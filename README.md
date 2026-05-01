@@ -8,7 +8,7 @@
 <!-- Yozuvli animatsiya -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/42291a14-a3a6-4b16-b49e-da1728deb6c5" />
+    <img src="" height="1024" alt="image" src="https://github.com/user-attachments/assets/42291a14-a3a6-4b16-b49e-da1728deb6c" />
 " alt="Typing SVG" />
   </a>
 </p>
