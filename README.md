@@ -1,333 +1,45 @@
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
+# <p align="center">👋 Welcome to my digital space!</p>
 
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizGitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> GitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (MotivatsionGitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketGitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalGitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalarni kodga aylantiraman. Portfolio va open-source loyihalarim bilan tanishing.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Front-end+Engineer;React+%2B+Next.js+Specialist;Building+Modern+Web+Apps" alt="Typing SVG" />
+</p>
 
 ---
 
-### Foydali maslahat:GitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
+### 👨‍💻 About Me
+Men interaktiv va zamonaviy veb-interfeyslar yaratishga ishtiyoqmand **Front-end Developer**man. Hozirda **React**, **TypeScript** va **Next.js** ekotizimida murakkab loyihalar (jumladan, real-time chat va dashboardlar) ustida ishlayapman.
 
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalarni kodga aylantiraman. Portfolio va open-source loyihalarim bilan tanishing.
+*   🔭 **Hozirgi loyiham:** Firebase yordamida real-time chat ilovasi.
+*   ⚡ **Maqsadim:** Yuqori unumdorlikka ega va foydalanuvchi uchun qulay interfeyslar yaratish.
+*   🏎️ **Qiziqishlarim:** Texnologiyalar, avtomobillar va doimiy o'sish.
 
 ---
 
-### Foydali maslahat:
-README'ni chiroyli qilish uchun quyidagi bepul servislardan foydalanib ko'ring:
-*   **GitHub Readme Stats:** RepGitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalarni kodga aylantiraman. Portfolio va open-source loyihalarim bilan tanishing.
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.dot.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+</p>
 
 ---
 
-### Foydali maslahat:
-README'ni chiroyli qilish uchun quyidagi bepul servislardan foydalanib ko'ring:
-*   **GitHub Readme Stats:** Repolaringiz va yutuqlaringizni avtomatik grafika qilib chiqaradi.
-*   **Top Languages Card:** Qaysi tillardaGitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalarni kodga aylantiraman. Portfolio va open-source loyihalarim bilan tanishing.
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### Foydali maslahat:
-README'ni chiroyli qilish uchun quyidagi bepul servislardan foydalanib ko'ring:
-*   **GitHub Readme Stats:** Repolaringiz va yutuqlaringizni avtomatik grafika qilib chiqaradi.
-*   **Top Languages Card:** Qaysi tillarda ko'proq kod yozishingizni ko'rsatadi.
-*   **Giphy:** Kichik, sifatli dasturlashga oid GIF'GitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
+### 📫 Connect with me
+<p align="left">
+  <a href="https://t.me/YOUR_TELEGRAM_LINK" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalarni kodga aylantiraman. Portfolio va open-source loyihalarim bilan tanishing.
-
----
-
-### Foydali maslahat:
-README'ni chiroyli qilish uchun quyidagi bepul servislardan foydalanib ko'ring:
-*   **GitHub Readme Stats:** Repolaringiz va yutuqlaringizni avtomatik grafika qilib chiqaradi.
-*   **Top Languages Card:** Qaysi tillarda ko'proq kod yozishingizni ko'rsatadi.
-*   **Giphy:** Kichik, sifatli dasturlashga oid GIF'lar qo'shish ham sahifani jonlantiradi.
-
-Qaysi yo'nalish sizga ko'proq ma'qul?GitHub README profilingizni (special repository) yangilash — o'zingizni kreativ ko'rsatish uchun ajoyib imkoniyat. "Salom, men Akbarman" degan oddiy gap o'rniga, tashrif buyuruvchilarni jalb qiladigan va professional darajangizni ko'rsatadigan quyidagi variantlardan birini tanlashingiz mumkin:
-
-### 1. Texnologik va Minimalistik
-Agar ko'p gapirishni yoqtirmasangiz, to'g'ridan-to'g'ri stack'ingizga urg'u bering:
-> **Akbar | Front-end Developer**
->
-> 🚀 React, Next.js va TypeScript yordamida interaktiv interfeyslar yarataman. Hozirda Firebase va real-time chat ilovalari ustida ishlayapman.
-
-### 2. Kreativ va "Developer" uslubida
-Dasturchi ekanligingizni kod elementlari bilan ko'rsating:
-> ```typescript
-> const developer = {
->   name: "Akbar",
->   role: "Front-end Architect",
->   status: "Building the future of web apps",
->   coffeeConsumed: Infinity
-> };
-> ```
-
-### 3. Vizual va Dinamik (Badge-lar bilan)
-Oddiy matn o'rniga vizual elementlar (badge) qo'shing. Bu repoga rang bag'ishlaydi:
-> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Building+modern+web+solutions;React+%2B+TypeScript+Enthusiast;Welcome+to+my+digital+space)
-> 
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### 4. Qisqa va Lirik (Motivatsion)
-Agar car-culture yoki "chuqur" ma'noli iboralarni yoqtirsangiz, buni ham qo'shib ketishingiz mumkin:
-> **"Harakatda barakat."**
-> 💻 Web-dasturlash orqali g'oyalarni kodga aylantiraman. Portfolio va open-source loyihalarim bilan tanishing.
-
----
-
-### Foydali maslahat:
-README'ni chiroyli qilish uchun quyidagi bepul servislardan foydalanib ko'ring:
-*   **GitHub Readme Stats:** Repolaringiz va yutuqlaringizni avtomatik grafika qilib chiqaradi.
-*   **Top Languages Card:** Qaysi tillarda ko'proq kod yozishingizni ko'rsatadi.
-*   **Giphy:** Kichik, sifatli dasturlashga oid GIF'lar qo'shish ham sahifani jonlantiradi.
-
-Qaysi yo'nalish sizga ko'proq ma'qul? Shunga qarab tayyor kodini yozib berishim mumkin.
+<p align="center">
+  <i>"Eski do'st yangi narsadan afzal, lekin kod har doim yangilanishi kerak."</i>
+</p>
