@@ -37,7 +37,7 @@ Men interaktiv va zamonaviy veb-interfeyslar yaratishga ishtiyoqmand **Front-end
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM_LINK" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/xamidovakbarr" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
