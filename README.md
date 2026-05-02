@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="photo_2026-04-30_15-34-09" src="https://github.com/user-attachments/assets/f532abcd-c364-4610-987f-cbd50edcbf58" />
 # <p align="center">👋 Welcome to my digital space!</p>
 
 <p align="center">
