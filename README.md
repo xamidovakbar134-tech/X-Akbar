@@ -1,7 +1,7 @@
 <!-- Yuqoridagi animatsiyali banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=X-Akbar&fontSize=90" />
-</p>
+</p> -->
 
 ### 👋 Salom, men Akbar!
 
