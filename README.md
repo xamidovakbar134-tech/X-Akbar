@@ -41,5 +41,5 @@ Men interaktiv va zamonaviy veb-interfeyslar yaratishga ishtiyoqmand **Front-end
 </p>
 
 <p align="center">
-  <i>"Eski do'st yangi narsadan afzal, lekin kod har doim yangilanishi kerak."</i>
+  <i>"Eski do'st yangi do`stdan afzal, lekin kod har doim yangilanishi kerak."</i>
 </p>
